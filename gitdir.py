@@ -11,7 +11,7 @@ import json
 # this ansi code lets us erase the current line
 ERASE_LINE = "\x1b[2K"
 
-
+print("test")
 def create_url(url):
 	"""
 	modifying the given url so that it returns JSON data when
